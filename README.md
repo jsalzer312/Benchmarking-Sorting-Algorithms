@@ -1,2 +1,2 @@
-# Assignment_4
- Assignment_4, comparing multiple sorting algorithms with large data
+# Sorting-Algorithms-Benchmark
+ Comparing Bubble, Insertion, Merge, and Quick sort algorithms with extremely large input from .txt files.
